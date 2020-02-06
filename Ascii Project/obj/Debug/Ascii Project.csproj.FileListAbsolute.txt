@@ -1,0 +1,9 @@
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\bin\Debug\Ascii Project.exe.config
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\bin\Debug\Ascii Project.exe
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\bin\Debug\Ascii Project.pdb
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\obj\Debug\Ascii Project.csprojAssemblyReference.cache
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\obj\Debug\Ascii_Project.Form1.resources
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\obj\Debug\Ascii_Project.Properties.Resources.resources
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\obj\Debug\Ascii Project.csproj.GenerateResource.cache
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\obj\Debug\Ascii Project.exe
+C:\Users\MCA\source\repos\Ascii Project\Ascii Project\obj\Debug\Ascii Project.pdb
